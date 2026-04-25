@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring software developer focused on building real-world applications.  <br><br>I work with technologies like MERN stack and Flutter, and I enjoy creating projects that solve practical problems — not just for learning, but for real impact.  <br><br>Currently, I'm improving my skills in full stack development and DSA while building projects that combine clean UI with strong functionality.  <br><br>I like turning ideas into working products and constantly pushing myself to grow as a developer.
 
 
@@ -17,4 +17,4 @@ Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring sof
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
