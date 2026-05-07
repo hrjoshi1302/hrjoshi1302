@@ -10,9 +10,7 @@ Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring sof
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=hrjoshi1302&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&layout=compact&langs_count=8)
+<p align="center">  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrjoshi1302&theme=github_dark" /></p><p align="center">  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrjoshi1302&theme=github_dark" />    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrjoshi1302&theme=github_dark" />    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrjoshi1302&theme=github_dark" /></p><p align="center">  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrjoshi1302&theme=github_dark&utcOffset=5.5" />    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrjoshi1302&theme=github-dark-blue&hide_border=true" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
