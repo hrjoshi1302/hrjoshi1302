@@ -10,9 +10,9 @@ Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring sof
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800)<br/>
-![](https://streak-stats.demolab.com?user=hrjoshi1302&theme=ambient_gradient&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Himal's%20GitHub%20Stats&cache_seconds=86400)<br/>
+![](https://streak-stats.demolab.com?user=hrjoshi1302&theme=ambient_gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=86400)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
