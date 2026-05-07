@@ -10,6 +10,10 @@ Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring sof
 
 # 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800)<br/>
+![](https://streak-stats.demolab.com?user=hrjoshi1302&theme=ambient_gradient&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
