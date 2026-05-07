@@ -10,19 +10,12 @@ Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring sof
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrjoshi1302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrjoshi1302&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&show_icons=true&count_private=true)
 
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=hrjoshi1302&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=hrjoshi1302&theme=github-dark&hide_border=true)
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&layout=compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
