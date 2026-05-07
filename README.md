@@ -12,7 +12,7 @@ Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring sof
 
 ![](https://github-readme-stats.vercel.app/api?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&show_icons=true&count_private=true)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=hrjoshi1302&theme=github-dark&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=hrjoshi1302&theme=github-dark&hide_border=true&title_color=000000&area=true&custom_title= )
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&layout=compact)
 
