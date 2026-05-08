@@ -19,7 +19,7 @@ Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring sof
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hrjoshi1302/hrjoshi1302/output/snake.svg" alt="Snake animation" />
 </div>
 
 ### ✍️ Random Dev Quote
