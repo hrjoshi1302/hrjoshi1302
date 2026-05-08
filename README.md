@@ -16,6 +16,12 @@ Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring sof
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
