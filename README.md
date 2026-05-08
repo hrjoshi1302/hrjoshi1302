@@ -17,10 +17,20 @@ Hey, I'm Himal 👋  <br><br>I'm a Computer Engineering student and aspiring sof
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302&theme=ambient_gradient&hide_border=true&layout=compact)
 
 <!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hrjoshi1302/hrjoshi1302/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hrjoshi1302/hrjoshi1302/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hrjoshi1302/hrjoshi1302/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/hrjoshi1302/hrjoshi1302/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
