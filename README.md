@@ -1,4 +1,4 @@
-````md id="xv8q2m"
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Himal%20Joshi&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20Flutter%20Developer&descAlignY=58&descSize=18" width="100%"/>
@@ -91,6 +91,7 @@ I enjoy turning ideas into working products while continuously growing as a deve
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br/>
 
@@ -100,6 +101,7 @@ I enjoy turning ideas into working products while continuously growing as a deve
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br/>
 
@@ -108,6 +110,9 @@ I enjoy turning ideas into working products while continuously growing as a deve
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
 <br/>
 
@@ -131,6 +136,8 @@ I enjoy turning ideas into working products while continuously growing as a deve
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -190,13 +197,12 @@ A React project demonstrating advanced routing concepts using React Router DOM.
 
 # 🌱 Currently Learning
 
-```txt
+
 🔷 MERN Stack Development
 🔷 Flutter App Development
 🔷 Backend System Design
 🔷 Data Structures & Algorithms
 🔷 API Development
-````
 
 </div>
 
@@ -249,12 +255,12 @@ A React project demonstrating advanced routing concepts using React Router DOM.
 
 # ✍️ Random Dev Quote
 
-</div>
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
 ---
-
+</div>
 <div align="center">
 
 ### 🚀 Building projects that solve real-world problems.
@@ -262,7 +268,7 @@ A React project demonstrating advanced routing concepts using React Router DOM.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
-```
+
 
 
 
