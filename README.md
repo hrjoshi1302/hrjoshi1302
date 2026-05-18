@@ -165,32 +165,6 @@ A technology-driven agricultural platform connecting farmers and buyers through 
 
 ---
 
-## 🔐 MERN Authentication System
-
-A secure authentication system built using the MERN stack with modern authentication flow and protected routes.
-
-### Key Features
-
-- User authentication
-- Login & Signup system
-- Protected routes
-- JWT-based authentication
-
----
-
-## ⚛️ Advanced React Routing
-
-A React project demonstrating advanced routing concepts using React Router DOM.
-
-### Key Features
-
-- Nested routing
-- Dynamic routes
-- Navigation handling
-- Theme management using Context API
-
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
