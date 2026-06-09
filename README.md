@@ -191,11 +191,11 @@ A technology-driven agricultural platform connecting farmers and buyers through 
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=hrjoshi1302\&theme=ambient_gradient\&hide_border=true\&show_icons=true\&count_private=true)
+
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=hrjoshi1302&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrjoshi1302\&theme=ambient_gradient\&hide_border=true\&layout=compact)
+
 
 ---
 
