@@ -249,7 +249,7 @@ I enjoy turning ideas into working products while continuously growing as a deve
 
 </div>
 
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -258,6 +258,27 @@ I enjoy turning ideas into working products while continuously growing as a deve
 # 🚀 Featured Projects
 
 </div>
+
+## 🎵 AudioVerse
+
+An AI-powered full-stack music streaming platform that combines modern music streaming with conversational AI, personalized recommendations, artist tools, and a comprehensive admin dashboard.
+
+### Key Features
+
+- AI-powered music assistant using Google Gemini
+- Personalized music recommendation system
+- Global music player with queue management
+- Artist dashboard for music & album management
+- Admin dashboard with analytics and moderation
+- JWT Authentication & Email OTP Verification
+- Playlist, Album & Library Management
+- ImageKit cloud media storage
+- Responsive modern UI with Tailwind CSS
+- Production deployment on Vercel & Render
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • Google Gemini • ImageKit • Tailwind CSS
+
+---
 
 ## 🌾 Assured Contract Farming for Stable Market Access
 
@@ -271,7 +292,9 @@ A technology-driven agricultural platform connecting farmers and buyers through 
 - Buyer & farmer interaction system
 - Multi-page UI flow
 
----
+**Tech Stack:** HTML • CSS • JavaScript
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -279,13 +302,8 @@ A technology-driven agricultural platform connecting farmers and buyers through 
 
 # 🌱 Currently Learning
 
-
-🔷 MERN Stack Development
-🔷 Flutter App Development
-🔷 Backend System Design
-🔷 Data Structures & Algorithms
-
-🔷 API Development
+🔷 AI-Powered Web Application Development  🔷 Retrieval-Augmented Generation (RAG)  🔷 LangChain & AI Agent Frameworks  
+🔷 Prompt Engineering & Vector Embeddings  🔷 Backend System Design  🔷 Data Structures & Algorithms 
 
 </div>
 
