@@ -206,11 +206,46 @@ I enjoy turning ideas into working products while continuously growing as a deve
 
 ## 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![MongoDB%20Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+<br/>
+
+## 🎨 UI / UX
+
+![Responsive%20Design](https://img.shields.io/badge/Responsive%20Design-2196F3?style=for-the-badge)
+![Dark%20UI](https://img.shields.io/badge/Dark%20UI-212121?style=for-the-badge)
+![Loading%20Screens](https://img.shields.io/badge/Loading%20Screens-5E35B1?style=for-the-badge)
+![Skeleton%20Loaders](https://img.shields.io/badge/Skeleton%20Loaders-546E7A?style=for-the-badge)
+![Toast%20Notifications](https://img.shields.io/badge/Toast%20Notifications-FF9800?style=for-the-badge)
+![Animation%20Design](https://img.shields.io/badge/Animation%20Design-E91E63?style=for-the-badge)
+![Component--Based%20Architecture](https://img.shields.io/badge/Component--Based%20Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+<br/>
+
+## 🏗️ Software Concepts
+
+![MVC%20Architecture](https://img.shields.io/badge/MVC%20Architecture-3949AB?style=for-the-badge)
+![Role--Based%20Authorization](https://img.shields.io/badge/Role--Based%20Authorization-8E24AA?style=for-the-badge)
+![REST%20Architecture](https://img.shields.io/badge/REST%20Architecture-1565C0?style=for-the-badge)
+![Reusable%20Components](https://img.shields.io/badge/Reusable%20Components-00ACC1?style=for-the-badge)
+![Code%20Splitting](https://img.shields.io/badge/Code%20Splitting-7CB342?style=for-the-badge)
+![Lazy%20Loading](https://img.shields.io/badge/Lazy%20Loading-00897B?style=for-the-badge)
+![Authentication%20Flow](https://img.shields.io/badge/Authentication%20Flow-5E35B1?style=for-the-badge)
+![File%20Storage%20Systems](https://img.shields.io/badge/File%20Storage%20Systems-6D4C41?style=for-the-badge)
+![Analytics%20Tracking](https://img.shields.io/badge/Analytics%20Tracking-00897B?style=for-the-badge)
+
+<br/>
 
 </div>
 
