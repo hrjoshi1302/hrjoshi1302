@@ -170,6 +170,25 @@ I enjoy turning ideas into working products while continuously growing as a deve
 
 <br/>
 
+## 🔄 State Management
+
+![React%20Context%20API](https://img.shields.io/badge/React%20Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Custom%20Hooks](https://img.shields.io/badge/Custom%20Hooks-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Global%20State%20Management](https://img.shields.io/badge/Global%20State%20Management-764ABC?style=for-the-badge)
+
+<br/>
+
+## 🔌 API Development
+
+![RESTful%20APIs](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge)
+![CRUD%20Operations](https://img.shields.io/badge/CRUD%20Operations-2E7D32?style=for-the-badge)
+![API%20Integration](https://img.shields.io/badge/API%20Integration-1565C0?style=for-the-badge)
+![File%20Upload%20APIs](https://img.shields.io/badge/File%20Upload%20APIs-FF6F00?style=for-the-badge)
+![Authentication%20APIs](https://img.shields.io/badge/Authentication%20APIs-8E24AA?style=for-the-badge)
+![Analytics%20APIs](https://img.shields.io/badge/Analytics%20APIs-00897B?style=for-the-badge)
+
+<br/>
+
 ## 📱 App Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
