@@ -149,6 +149,27 @@ I enjoy turning ideas into working products while continuously growing as a deve
 
 <br/>
 
+## ☁️ Cloud & Deployment
+
+![ImageKit](https://img.shields.io/badge/ImageKit-06C167?style=for-the-badge&logo=imagekit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![MongoDB%20Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br/>
+
+## 🔐 Authentication & Security
+
+![JWT](https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/Role--Based%20Access%20Control-8E44AD?style=for-the-badge)
+![HTTP--Only%20Cookies](https://img.shields.io/badge/HTTP--Only%20Cookies-1E88E5?style=for-the-badge)
+![Email%20OTP](https://img.shields.io/badge/Email%20OTP%20Verification-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Password%20Hashing](https://img.shields.io/badge/Password%20Hashing-4A154B?style=for-the-badge)
+![Protected%20Routes](https://img.shields.io/badge/Protected%20Routes-2E7D32?style=for-the-badge)
+![CAPTCHA](https://img.shields.io/badge/CAPTCHA%20Authentication-FF6F00?style=for-the-badge)
+
+<br/>
+
 ## 📱 App Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
